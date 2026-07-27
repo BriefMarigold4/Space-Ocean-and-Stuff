@@ -1,0 +1,13 @@
+{
+  "id": "techguns:radresistancepotion",
+  "effects": [
+    {
+      "potion": "techguns:radresistance",
+      "level": 2,
+      "duration_min": 0.75,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 112
+}

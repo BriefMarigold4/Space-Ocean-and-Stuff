@@ -1,0 +1,19 @@
+{
+  "id": "charm:ender_sight",
+  "effects": [
+    {
+      "potion": "charm:ender_sight",
+      "level": 1,
+      "duration_min": 0.16666667,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:night_vision",
+      "reagent": "minecraft:ender_eye"
+    }
+  ],
+  "tipped_arrow_duration": 25
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xat:lightning_resistance",
+  "effects": [
+    {
+      "potion": "xat:lightning_resistance",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

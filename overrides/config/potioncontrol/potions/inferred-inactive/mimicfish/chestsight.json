@@ -1,0 +1,15 @@
+{
+  "id": "mimicfish:chestsight",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#1",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.luck",
+      "modifierName": "potion.chestsight",
+      "amount": 2.0,
+      "operation": 0,
+      "uuid": "03c3c89d-7037-4b42-869f-b146bcb64d2e"
+    }
+  ]
+}

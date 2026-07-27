@@ -1,0 +1,9 @@
+{
+  "id": "extrautils2:effect.xu2.greek.fire",
+  "isGood": false,
+  "isRepeating": true,
+  "repeatingPeriod": 20,
+  "periodAmpModifier": 0,
+  "milkRemovable": true,
+  "liquidColor": "#FF5000"
+}

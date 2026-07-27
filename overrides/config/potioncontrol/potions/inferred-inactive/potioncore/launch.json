@@ -1,0 +1,7 @@
+{
+  "id": "potioncore:launch",
+  "isGood": false,
+  "isInstant": true,
+  "milkRemovable": true,
+  "liquidColor": "#FF00"
+}

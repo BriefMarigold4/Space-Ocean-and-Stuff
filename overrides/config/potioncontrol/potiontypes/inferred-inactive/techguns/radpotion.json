@@ -1,0 +1,13 @@
+{
+  "id": "techguns:radpotion",
+  "effects": [
+    {
+      "potion": "techguns:radiation",
+      "level": 5,
+      "duration_min": 0.25,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 37
+}

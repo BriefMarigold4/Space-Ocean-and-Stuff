@@ -1,0 +1,13 @@
+{
+  "id": "potioncore:strong_step_up",
+  "effects": [
+    {
+      "potion": "potioncore:step_up",
+      "level": 2,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

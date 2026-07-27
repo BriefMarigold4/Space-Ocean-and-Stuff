@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "charm",
+  "modName": "Charm",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "xat:titan",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#999999",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.titan",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "a3bc433b-7bb7-4bd9-a88c-5fd120d04d59"
+    }
+  ]
+}

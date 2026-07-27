@@ -1,0 +1,291 @@
+version:1343
+invertYMouse:false
+mouseSensitivity:0.5
+fov:0.5
+gamma:0.0
+saturation:0.0
+renderDistance:12
+guiScale:0
+particles:0
+bobView:true
+anaglyph3d:false
+maxFps:260
+fboEnable:true
+difficulty:3
+fancyGraphics:true
+ao:2
+renderClouds:true
+resourcePacks:["Stellar_1.0.zip","Galacticraft 16x.zip","Chisel Modernity 1.12.2.zip","Actually Additions Modernity.zip","Jappa Galacticraft-1.1.0.1.zip","2.2.0_plain_Jappafied_Modded.zip","Modernity-f3-3.10.2.zip","ModernityAdjunct-f3-1.6.zip","ModernityExtra-v1.2.0.zip","Lycanites Redux 1.12.2-v8.2.1.zip","CombatCrosshair.zip","Pix textures for “EnhancedVisuals”.zip","EquipmentHiderPlusPlusOrWhatever.zip","Going+Deeper+1.1.zip","ADSerpentRedBlue.zip","Techguns Re.zip","Trinkets and Baubles Jappa Textures · v1.0.zip","Underground Biome Modern Stones 1.0.zip","UndergroundBiomesOres.zip","Enhanced Audio r7.zip","mat_zen-35-1.2.2.zip","Better_Enderdragon.zip","Dark Mode-2.5.1.zip","Vibrant Tooltips"]
+incompatibleResourcePacks:["CombatCrosshair.zip","Pix textures for “EnhancedVisuals”.zip","Going+Deeper+1.1.zip","Enhanced Audio r7.zip"]
+lastServer:
+lang:en_us
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+snooperEnabled:false
+fullscreen:true
+enableVsync:false
+useVbo:true
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+mipmapLevels:0
+forceUnicodeFont:false
+reducedDebugInfo:false
+useNativeTransport:true
+entityShadows:true
+mainHand:right
+attackIndicator:2
+showSubtitles:false
+realmsNotifications:true
+enableWeakAttacks:false
+autoJump:false
+narrator:0
+tutorialStep:none
+key_key.attack:-100:NONE:
+key_key.use:-99:NONE:
+key_key.forward:17:NONE:
+key_key.left:30:NONE:
+key_key.back:31:NONE:
+key_key.right:32:NONE:
+key_key.jump:57:NONE:
+key_key.sneak:42:NONE:
+key_key.sprint:29:NONE:
+key_key.drop:16:NONE:
+key_key.inventory:18:NONE:
+key_key.chat:20:NONE:
+key_key.playerlist:15:NONE:
+key_key.pickItem:-98:NONE:
+key_key.command:53:NONE:
+key_key.screenshot:60:NONE:
+key_key.togglePerspective:63:NONE:
+key_key.smoothCamera:0:NONE:
+key_key.fullscreen:87:NONE:
+key_key.spectatorOutlines:0:NONE:
+key_key.swapHands:33:NONE:
+key_key.saveToolbarActivator:0:NONE:
+key_key.loadToolbarActivator:0:NONE:
+key_key.hotbar.1:2:NONE:
+key_key.hotbar.2:3:NONE:
+key_key.hotbar.3:4:NONE:
+key_key.hotbar.4:5:NONE:
+key_key.hotbar.5:6:NONE:
+key_key.hotbar.6:7:NONE:
+key_key.hotbar.7:8:NONE:
+key_key.hotbar.8:9:NONE:
+key_key.hotbar.9:10:NONE:
+key_keybind.baublesinventory:48:NONE:
+key_Galaxy Map:50:NONE:
+key_Open Spaceship Inventory:33:NONE:
+key_Toggle Sensor Goggles Mode:37:NONE:
+key_quark.keybind.lockBuilding:37:NONE:
+key_quark.keybind.dropoff:0:NONE:
+key_quark.keybind.changeHotbar:44:NONE:
+key_quark.keybind.chestSort:0:NONE:
+key_quark.keybind.chestDropoff:0:NONE:
+key_quark.keybind.chestMerge:0:NONE:
+key_quark.keybind.chestRestock:0:NONE:
+key_quark.keybind.chestExtract:0:NONE:
+key_quark.keybind.toggleAutojump:48:NONE:
+key_key.fart.desc:34:NONE:
+key_cos.key.opencosarmorinventory:0:NONE:
+key_Scene1 start/pause:79:NONE:
+key_Scene2 start/pause:80:NONE:
+key_Scene3 start/pause:81:NONE:
+key_Scene reset:82:NONE:
+key_Quest Log:38:NONE:
+key_key.davincis.up:45:NONE:
+key_key.davincis.down:44:NONE:
+key_key.davincis.brake:0:NONE:
+key_key.davincis.align:13:NONE:
+key_key.davincis.decompile:43:NONE:
+key_key.davincis.shipinv:37:NONE:
+key_keybind.endermodpacktweaks.toggle:0:NONE:
+key_key.ftbutilities.nbt:49:NONE:
+key_key.ftbutilities.trash:211:NONE:
+key_key.ftbquests.quests:0:NONE:
+key_keybind.togglehelmet.name:33:NONE:
+key_keybind.togglechest.name:34:NONE:
+key_keybind.togglelegs.name:35:NONE:
+key_keybind.toggleboots.name:36:NONE:
+key_key.fastEquip.desc:45:NONE:
+key_key.mount.dismount:0:NONE:
+key_key.mount.descend:44:NONE:
+key_key.mount.ability:45:NONE:
+key_key.mount.inventory:0:NONE:
+key_key.index:52:NONE:
+key_key.beastiary:0:NONE:
+key_key.pets:0:NONE:
+key_key.summoning:0:NONE:
+key_key.minions:0:NONE:
+key_key.spawn_keybound_pet.lycanitestweaks:0:NONE:
+key_key.teleport_keybound_pet.lycanitestweaks:0:NONE:
+key_key.lycanitestweaks.toggleAmuletBauble:0:NONE:
+key_key.lycanitestweaks.toggleRing1Bauble:0:NONE:
+key_key.lycanitestweaks.toggleRing2Bauble:0:NONE:
+key_key.lycanitestweaks.toggleBeltBauble:0:NONE:
+key_key.lycanitestweaks.toggleHeadBauble:0:NONE:
+key_key.lycanitestweaks.toggleBodyBauble:0:NONE:
+key_key.lycanitestweaks.toggleCharmBauble:0:NONE:
+key_key.lycanitestweaks.toggleAllBaubles:0:NONE:
+key_Flying Mount Descent (Mo' Creatures):44:NONE:
+key_key.toggleFoVChanges:51:NONE:
+key_key.reloadSoundSystem:66:NONE:
+key_key.toggleTimeOfDayOverlay:0:NONE:
+key_key.togglePotionParticles:66:NONE:
+key_Difficulty Meter - Show:0:NONE:
+key_Difficulty Meter - Show Always:0:NONE:
+key_Lock On:41:NONE:
+key_Target Switch:15:NONE:
+key_key.xat.trinket_gui.desc:25:NONE:
+key_key.xat.trinket_target.desc:25:NONE:
+key_key.xat.trinket_toggle_effect.desc:43:NONE:
+key_key.xat.magnet_toggle_effect.desc:43:NONE:
+key_key.xat.trinket_arcing_attack.desc:19:NONE:
+key_key.xat.trinket_ender_crown.desc:19:NONE:
+key_key.xat.aux_key.desc:29:NONE:
+key_key.xat.race_ability.desc:19:NONE:
+key_key.spartanweaponry.access_quiver:23:NONE:
+key_walljump.key.walljump:42:NONE:
+key_dshuds.keybind.SelectionBox:48:NONE:
+key_dshuds.keybind.LightLevel:65:NONE:
+key_dshuds.keybind.ChunkBorders:67:NONE:
+key_key.jei.toggleOverlay:24:NONE:
+key_key.jei.focusSearch:33:NONE:
+key_key.jei.toggleCheatMode:0:NONE:
+key_key.jei.toggleEditMode:0:NONE:
+key_key.jei.showRecipe:19:NONE:
+key_key.jei.showUses:22:NONE:
+key_key.jei.recipeBack:14:NONE:
+key_key.jei.previousPage:201:NONE:
+key_key.jei.nextPage:209:NONE:
+key_key.hei.previousCategory:201:NONE:
+key_key.hei.nextCategory:209:NONE:
+key_key.jei.bookmark:30:NONE:
+key_key.hei.bookmarkToTop:30:NONE:
+key_key.hei.recipeBookmark:30:NONE:
+key_key.hei.toggleBookmarkOverlay:0:NONE:
+key_key.hei.crafting:0:NONE:
+key_astraladditions.key.ring_toggle:82:NONE:
+key_key.cofh.multimode:47:NONE:
+key_key.craftingtweaks.rotate:0:NONE:
+key_key.craftingtweaks.rotate_counter_clockwise:0:NONE:
+key_key.craftingtweaks.balance:0:NONE:
+key_key.craftingtweaks.spread:0:NONE:
+key_key.craftingtweaks.clear:0:NONE:
+key_key.craftingtweaks.force_clear:0:NONE:
+key_key.craftingtweaks.toggleButtons:0:NONE:
+key_key.craftingtweaks.compressOne:37:NONE:
+key_key.craftingtweaks.compressStack:37:NONE:
+key_key.craftingtweaks.compressAll:37:NONE:
+key_key.craftingtweaks.decompressOne:0:NONE:
+key_key.craftingtweaks.decompressStack:0:NONE:
+key_key.craftingtweaks.decompressAll:0:NONE:
+key_key.craftingtweaks.refill_last:15:NONE:
+key_key.craftingtweaks.refill_last_stack:15:NONE:
+key_key.cpm.gestureMenu:34:NONE:
+key_key.cpm.renderToggle:0:NONE:
+key_key.cpm.qa_1:0:NONE:
+key_key.cpm.qa_2:0:NONE:
+key_key.cpm.qa_3:0:NONE:
+key_key.cpm.qa_4:0:NONE:
+key_key.cpm.qa_5:0:NONE:
+key_key.cpm.qa_6:0:NONE:
+key_key.cpm.qa_7:0:NONE:
+key_key.cpm.qa_8:0:NONE:
+key_key.cpm.qa_9:0:NONE:
+key_key.cpm.qa_10:0:NONE:
+key_key.cpm.qa_11:0:NONE:
+key_key.cpm.qa_12:0:NONE:
+key_key.cpm.qa_13:0:NONE:
+key_key.cpm.qa_14:0:NONE:
+key_key.cpm.qa_15:0:NONE:
+key_key.cpm.qa_16:0:NONE:
+key_key.keyExtraInvo:0:NONE:
+key_key.keyWheel:0:NONE:
+key_key.keyExtraCraftin:0:NONE:
+key_key.elenaidodge2.dodge:56:NONE:
+key_Open Menu:25:NONE:
+key_Enable/Disable:0:NONE:
+key_Toggle Freeze Effect:0:NONE:
+key_Kill Particles:0:NONE:
+key_Blacklist Menu:48:NONE:
+key_key.mod_lavacow.special:34:NONE:
+key_key.mod_lavacow.down:44:NONE:
+key_gnetum.config.keyMapping:207:NONE:
+key_key.boththrow.desc:0:NONE:
+key_key.leftthrow.desc:0:NONE:
+key_key.rightthrow.desc:0:NONE:
+key_key.motoronoff.desc:0:NONE:
+key_key.jumpanddetach.desc:0:NONE:
+key_key.slow.desc:0:NONE:
+key_key.climb.desc:0:NONE:
+key_key.climbup.desc:0:NONE:
+key_key.climbdown.desc:0:NONE:
+key_key.enderlaunch.desc:0:NONE:
+key_key.rocket.desc:0:NONE:
+key_key.slide.desc:42:NONE:
+key_keybind.groovyscript.reload:0:NONE:
+key_keybind.groovyscript.quick_reload:0:NONE:
+key_keybind.groovyscript.copy:0:NONE:
+key_invtweaks.key.sort:0:NONE:
+key_MAtmos:62:NONE:
+key_Item Mode Switch:21:NONE:
+key_Head Mode Switch:21:NONE:
+key_Chest Mode Switch:21:NONE:
+key_Legs Mode Switch:21:NONE:
+key_LFeet Mode Switch:21:NONE:
+key_Voice:22:NONE:
+key_Show HUD:35:NONE:
+key_Boost:49:NONE:
+key_Module Tweaker:43:NONE:
+key_key.musictriggers.gui:40:NONE:
+key_Camera left:203:NONE:
+key_Camera right:205:NONE:
+key_Camera closer:200:NONE:
+key_Camera farther:208:NONE:
+key_Camera up:201:NONE:
+key_Camera down:209:NONE:
+key_Swap shoulder:24:NONE:
+key_Toggle perspective:0:NONE:
+key_techguns.key.toggleNightvision:0:NONE:
+key_techguns.key.toggleSafemode:0:NONE:
+key_techguns.key.toggleStepassist:0:NONE:
+key_techguns.key.forceReload:19:NONE:
+key_techguns.key.toggleJetpack:0:NONE:
+key_techguns.key.switchAmmo:19:NONE:
+key_key.toggleLiquids:38:NONE:
+key_key.toggleVisible:0:NONE:
+key_key.toolbelt.open:19:NONE:
+key_key.toolbelt.cycle.left:0:NONE:
+key_key.toolbelt.cycle.right:0:NONE:
+key_key.toolbelt.slot:47:NONE:
+key_keybind.universaltweaks.clear_toasts:11:NONE:
+key_keybind.universaltweaks.dismount:42:NONE:
+soundCategory_master:1.0
+soundCategory_music:1.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0
+soundCategory_voice:1.0
+modelPart_cape:true
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
+modelPart_left_pants_leg:true
+modelPart_right_pants_leg:true
+modelPart_hat:true

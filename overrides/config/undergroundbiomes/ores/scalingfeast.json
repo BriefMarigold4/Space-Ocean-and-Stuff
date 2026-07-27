@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "scalingfeast:exhaustingore",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/scalingfeast/exhausting_ore",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+]

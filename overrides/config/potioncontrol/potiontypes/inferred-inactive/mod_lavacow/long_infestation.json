@@ -1,0 +1,37 @@
+{
+  "id": "mod_lavacow:long_infestation",
+  "effects": [
+    {
+      "potion": "mod_lavacow:infested",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:long_slowness",
+      "reagent": "mod_lavacow:parasite_item"
+    },
+    {
+      "from": "minecraft:long_slowness",
+      "reagent": {
+        "item": "mod_lavacow:parasite_item",
+        "meta": 1
+      }
+    },
+    {
+      "from": "minecraft:long_slowness",
+      "reagent": {
+        "item": "mod_lavacow:parasite_item",
+        "meta": 2
+      }
+    },
+    {
+      "from": "mod_lavacow:infestation",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

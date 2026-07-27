@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:thorn",
+  "effects": [
+    {
+      "potion": "mod_lavacow:thorned",
+      "level": 1,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "mod_lavacow:cactus_fruit"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

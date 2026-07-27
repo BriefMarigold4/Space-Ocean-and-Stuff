@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "astralsorcery",
+  "modName": "Astral Sorcery",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

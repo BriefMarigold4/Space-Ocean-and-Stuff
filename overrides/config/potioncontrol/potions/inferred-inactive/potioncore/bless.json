@@ -1,0 +1,7 @@
+{
+  "id": "potioncore:bless",
+  "isGood": true,
+  "isInstant": true,
+  "milkRemovable": true,
+  "liquidColor": "#66CCFF"
+}

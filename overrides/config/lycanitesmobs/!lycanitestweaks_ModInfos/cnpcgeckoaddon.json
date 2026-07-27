@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "cnpcgeckoaddon",
+  "modName": "CNPC-Gecko-Addon",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": "potioncore:long_spin",
+  "effects": [
+    {
+      "potion": "potioncore:spin",
+      "level": 1,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mod_lavacow:infested",
+  "isGood": false,
+  "milkRemovable": true,
+  "liquidColor": "#FFA28100",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.movementSpeed",
+      "modifierName": "mob_effect.mod_lavacow:infested",
+      "amount": -0.1,
+      "operation": 2,
+      "uuid": "7107de5e-7ce8-4030-940e-514c1f160890"
+    }
+  ]
+}

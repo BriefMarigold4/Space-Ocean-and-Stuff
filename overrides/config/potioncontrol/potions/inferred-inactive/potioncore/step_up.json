@@ -1,0 +1,15 @@
+{
+  "id": "potioncore:step_up",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#33CC33",
+  "attributeModifiers": [
+    {
+      "attribute": "potioncore.stepHeight",
+      "modifierName": "effect.step_up",
+      "amount": 0.5,
+      "operation": 0,
+      "uuid": "a8635510-c109-454b-8823-a73cbc406546"
+    }
+  ]
+}

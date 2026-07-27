@@ -1,0 +1,19 @@
+{
+  "id": "elenaidodge2:feeble",
+  "effects": [
+    {
+      "potion": "elenaidodge2:feeble",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:slowness",
+      "reagent": "elenaidodge2:iron_feather"
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

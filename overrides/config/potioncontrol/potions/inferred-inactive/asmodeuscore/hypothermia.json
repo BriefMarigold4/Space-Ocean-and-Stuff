@@ -1,0 +1,9 @@
+{
+  "id": "asmodeuscore:hypothermia",
+  "isGood": false,
+  "isRepeating": true,
+  "repeatingPeriod": 15,
+  "periodAmpModifier": 1,
+  "milkRemovable": false,
+  "liquidColor": "#FE1E90FF"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cofhcore:resistance",
+  "effects": [
+    {
+      "potion": "minecraft:resistance",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": {
+        "item": "thermalfoundation:material",
+        "meta": 770
+      }
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

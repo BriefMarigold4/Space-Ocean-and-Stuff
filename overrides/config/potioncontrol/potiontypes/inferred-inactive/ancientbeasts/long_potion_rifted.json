@@ -1,0 +1,19 @@
+{
+  "id": "ancientbeasts:long_potion_rifted",
+  "effects": [
+    {
+      "potion": "ancientbeasts:rifted",
+      "level": 1,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "ancientbeasts:poison_rifted",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

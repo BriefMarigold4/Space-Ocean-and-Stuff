@@ -1,0 +1,9 @@
+{
+  "id": "asmodeuscore:overheat",
+  "isGood": false,
+  "isRepeating": true,
+  "repeatingPeriod": 20,
+  "periodAmpModifier": 1,
+  "milkRemovable": false,
+  "liquidColor": "#FE965000"
+}

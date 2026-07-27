@@ -1,0 +1,15 @@
+{
+  "id": "lycanitestweaks:consumed",
+  "isGood": false,
+  "milkRemovable": false,
+  "liquidColor": "#FFFFFF",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.maxHealth",
+      "modifierName": "effects.lycanitestweaks.consumed",
+      "amount": -0.95,
+      "operation": 2,
+      "uuid": "a7c92128-9cd8-4309-9c94-352e3be1029b"
+    }
+  ]
+}

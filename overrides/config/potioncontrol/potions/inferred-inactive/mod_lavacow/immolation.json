@@ -1,0 +1,9 @@
+{
+  "id": "mod_lavacow:immolation",
+  "isGood": true,
+  "isRepeating": true,
+  "repeatingPeriod": 20,
+  "periodAmpModifier": 0,
+  "milkRemovable": true,
+  "liquidColor": "#FFEA8C15"
+}

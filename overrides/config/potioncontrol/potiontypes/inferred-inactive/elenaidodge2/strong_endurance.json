@@ -1,0 +1,23 @@
+{
+  "id": "elenaidodge2:strong_endurance",
+  "effects": [
+    {
+      "potion": "elenaidodge2:endurance",
+      "level": 2,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "elenaidodge2:endurance",
+      "reagent": "minecraft:glowstone_dust"
+    },
+    {
+      "from": "minecraft:thick",
+      "reagent": "elenaidodge2:iron_feather"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

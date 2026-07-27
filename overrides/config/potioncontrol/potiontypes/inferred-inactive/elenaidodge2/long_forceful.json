@@ -1,0 +1,23 @@
+{
+  "id": "elenaidodge2:long_forceful",
+  "effects": [
+    {
+      "potion": "elenaidodge2:forceful",
+      "level": 1,
+      "duration_min": 8.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:long_swiftness",
+      "reagent": "elenaidodge2:iron_feather"
+    },
+    {
+      "from": "elenaidodge2:forceful",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 1200
+}

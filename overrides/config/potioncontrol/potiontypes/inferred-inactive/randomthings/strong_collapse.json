@@ -1,0 +1,19 @@
+{
+  "id": "randomthings:strong_collapse",
+  "effects": [
+    {
+      "potion": "randomthings:collapse",
+      "level": 2,
+      "duration_min": 0.25,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "randomthings:collapse",
+      "reagent": "minecraft:glowstone_dust"
+    }
+  ],
+  "tipped_arrow_duration": 37
+}

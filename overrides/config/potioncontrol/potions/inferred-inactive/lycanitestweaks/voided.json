@@ -1,0 +1,15 @@
+{
+  "id": "lycanitestweaks:voided",
+  "isGood": false,
+  "milkRemovable": false,
+  "liquidColor": "#0",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.maxHealth",
+      "modifierName": "effects.lycanitestweaks.voided",
+      "amount": -0.1,
+      "operation": 2,
+      "uuid": "957edfae-9e9c-43e7-9910-f2665e2bdb9a"
+    }
+  ]
+}

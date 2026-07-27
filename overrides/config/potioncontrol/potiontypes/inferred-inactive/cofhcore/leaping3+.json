@@ -1,0 +1,13 @@
+{
+  "id": "cofhcore:leaping3+",
+  "effects": [
+    {
+      "potion": "minecraft:jump_boost",
+      "level": 3,
+      "duration_min": 2.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 300
+}

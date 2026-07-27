@@ -1,0 +1,7 @@
+{
+  "id": "potioncore:explode",
+  "isGood": false,
+  "isInstant": true,
+  "milkRemovable": true,
+  "liquidColor": "#333333"
+}

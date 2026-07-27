@@ -1,0 +1,15 @@
+{
+  "id": "xat:elf",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#F9DBAD",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.elf",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "25f92404-35f3-453b-ad48-9b788b2e12fc"
+    }
+  ]
+}

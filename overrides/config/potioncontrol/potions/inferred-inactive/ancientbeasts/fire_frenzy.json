@@ -1,0 +1,29 @@
+{
+  "id": "ancientbeasts:fire_frenzy",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#FC7703",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.movementSpeed",
+      "modifierName": "potion.fire_frenzy",
+      "amount": 0.5,
+      "operation": 2,
+      "uuid": "7107de5e-7ce8-4030-940e-514c1f160890"
+    },
+    {
+      "attribute": "generic.attackSpeed",
+      "modifierName": "potion.fire_frenzy",
+      "amount": 0.3,
+      "operation": 2,
+      "uuid": "af8b6e3f-3328-4c0a-aa36-5ba2bb9dbef3"
+    },
+    {
+      "attribute": "generic.attackDamage",
+      "modifierName": "potion.fire_frenzy",
+      "amount": 30.0,
+      "operation": 0,
+      "uuid": "648d7064-6a60-4f59-8abe-c2c23a6dd7a9"
+    }
+  ]
+}

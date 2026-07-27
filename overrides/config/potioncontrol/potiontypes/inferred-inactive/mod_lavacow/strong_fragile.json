@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:strong_fragile",
+  "effects": [
+    {
+      "potion": "mod_lavacow:fragile",
+      "level": 2,
+      "duration_min": 0.375,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "mod_lavacow:fragile",
+      "reagent": "minecraft:glowstone_dust"
+    }
+  ],
+  "tipped_arrow_duration": 56
+}

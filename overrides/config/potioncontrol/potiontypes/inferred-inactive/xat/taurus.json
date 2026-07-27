@@ -1,0 +1,19 @@
+{
+  "id": "xat:taurus",
+  "effects": [
+    {
+      "potion": "xat:taurus",
+      "level": 1,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "xat:glittering",
+      "reagent": "minecraft:milk_bucket"
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

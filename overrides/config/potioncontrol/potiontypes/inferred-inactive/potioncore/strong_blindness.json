@@ -1,0 +1,13 @@
+{
+  "id": "potioncore:strong_blindness",
+  "effects": [
+    {
+      "potion": "minecraft:blindness",
+      "level": 2,
+      "duration_min": 0.375,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 56
+}

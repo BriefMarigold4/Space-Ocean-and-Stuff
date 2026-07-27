@@ -1,0 +1,10 @@
+crafting.removeByOutput(item('bountifulbaubles:ringiron'))
+
+crafting.shapedBuilder()
+    .output(item('bountifulbaubles:ringiron'))
+    .row(' X ')
+    .row('XTX')
+    .row(' X ')
+    .key('X', item('minecraft:iron_ingot'))
+    .key('T', item('minecraft:stone_button'))
+    .register()

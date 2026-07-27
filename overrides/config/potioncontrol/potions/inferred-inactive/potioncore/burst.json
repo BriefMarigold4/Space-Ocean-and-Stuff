@@ -1,0 +1,7 @@
+{
+  "id": "potioncore:burst",
+  "isGood": true,
+  "isInstant": true,
+  "milkRemovable": true,
+  "liquidColor": "#666666"
+}

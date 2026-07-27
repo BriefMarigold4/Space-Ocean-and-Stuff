@@ -1,0 +1,13 @@
+{
+  "id": "xat:glowing",
+  "effects": [
+    {
+      "potion": "xat:glowing",
+      "level": 1,
+      "duration_min": 0.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 1
+}

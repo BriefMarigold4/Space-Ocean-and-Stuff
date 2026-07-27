@@ -1,0 +1,19 @@
+{
+  "id": "xat:dwarf",
+  "effects": [
+    {
+      "potion": "xat:dwarf",
+      "level": 1,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "xat:glittering",
+      "reagent": "minecraft:iron_block"
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

@@ -1,0 +1,15 @@
+{
+  "id": "scalingfeast:hungerplus",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#FF00",
+  "attributeModifiers": [
+    {
+      "attribute": "scalingfeast.maxHungerMod",
+      "modifierName": "effect.hungerplus",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "8660b357-5fbe-45cd-b6fb-fba4cca2c3d0"
+    }
+  ]
+}

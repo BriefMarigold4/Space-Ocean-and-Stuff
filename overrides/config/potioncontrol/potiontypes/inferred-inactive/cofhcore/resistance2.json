@@ -1,0 +1,19 @@
+{
+  "id": "cofhcore:resistance2",
+  "effects": [
+    {
+      "potion": "minecraft:resistance",
+      "level": 2,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "cofhcore:resistance",
+      "reagent": "minecraft:glowstone_dust"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

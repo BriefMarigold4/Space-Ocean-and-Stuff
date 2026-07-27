@@ -1,0 +1,13 @@
+{
+  "id": "ancientbeasts:long_potion_undead",
+  "effects": [
+    {
+      "potion": "ancientbeasts:undead",
+      "level": 1,
+      "duration_min": 2.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 300
+}

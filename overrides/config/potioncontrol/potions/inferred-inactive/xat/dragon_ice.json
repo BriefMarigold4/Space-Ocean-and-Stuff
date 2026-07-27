@@ -1,0 +1,15 @@
+{
+  "id": "xat:dragon_ice",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#1E82FF",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.dragon_ice",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "3b75821e-6ec6-4dfe-9612-b7a988a7b30b"
+    }
+  ]
+}

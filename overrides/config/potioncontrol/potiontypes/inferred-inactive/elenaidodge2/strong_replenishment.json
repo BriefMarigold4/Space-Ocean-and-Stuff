@@ -1,0 +1,23 @@
+{
+  "id": "elenaidodge2:strong_replenishment",
+  "effects": [
+    {
+      "potion": "elenaidodge2:replenishment",
+      "level": 2,
+      "duration_min": 0.36666667,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:strong_regeneration",
+      "reagent": "elenaidodge2:golden_feather"
+    },
+    {
+      "from": "elenaidodge2:replenishment",
+      "reagent": "minecraft:glowstone_dust"
+    }
+  ],
+  "tipped_arrow_duration": 55
+}

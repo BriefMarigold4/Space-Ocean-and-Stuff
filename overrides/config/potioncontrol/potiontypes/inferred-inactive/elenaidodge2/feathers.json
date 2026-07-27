@@ -1,0 +1,19 @@
+{
+  "id": "elenaidodge2:feathers",
+  "effects": [
+    {
+      "potion": "elenaidodge2:feathers",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "elenaidodge2:golden_feather"
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

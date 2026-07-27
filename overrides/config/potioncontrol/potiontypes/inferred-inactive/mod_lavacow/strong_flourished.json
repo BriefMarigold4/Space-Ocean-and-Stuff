@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:strong_flourished",
+  "effects": [
+    {
+      "potion": "mod_lavacow:flourished",
+      "level": 2,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "mod_lavacow:flourished",
+      "reagent": "minecraft:glowstone_dust"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

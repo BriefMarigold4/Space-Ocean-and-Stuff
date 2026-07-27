@@ -1,0 +1,19 @@
+{
+  "id": "ancientbeasts:long_potion_ghostly",
+  "effects": [
+    {
+      "potion": "ancientbeasts:ghostly",
+      "level": 1,
+      "duration_min": 0.16666667,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "ancientbeasts:poison_ghostly",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 25
+}

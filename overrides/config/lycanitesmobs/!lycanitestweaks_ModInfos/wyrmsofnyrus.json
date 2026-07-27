@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "wyrmsofnyrus",
+  "modName": "Wyrms of Nyrus",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

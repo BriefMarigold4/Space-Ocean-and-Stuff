@@ -1,0 +1,15 @@
+{
+  "id": "xat:taurus",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#141414",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.taurus",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "07f0d6c2-4177-412e-8de5-07c401209e44"
+    }
+  ]
+}

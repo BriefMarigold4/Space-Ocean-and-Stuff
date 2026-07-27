@@ -1,0 +1,19 @@
+{
+  "id": "xat:titan",
+  "effects": [
+    {
+      "potion": "xat:titan",
+      "level": 1,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "xat:glowing",
+      "reagent": "minecraft:golden_apple"
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

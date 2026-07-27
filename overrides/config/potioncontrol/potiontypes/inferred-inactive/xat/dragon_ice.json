@@ -1,0 +1,19 @@
+{
+  "id": "xat:dragon_ice",
+  "effects": [
+    {
+      "potion": "xat:dragon_ice",
+      "level": 1,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "xat:dragon",
+      "reagent": "minecraft:packed_ice"
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

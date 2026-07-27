@@ -1,0 +1,9 @@
+{
+  "id": "mod_lavacow:void_dust",
+  "isGood": false,
+  "isRepeating": true,
+  "repeatingPeriod": 100,
+  "periodAmpModifier": 1,
+  "milkRemovable": true,
+  "liquidColor": "#FFD146FF"
+}

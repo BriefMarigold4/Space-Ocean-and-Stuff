@@ -1,0 +1,44 @@
+{
+  "id": "minecraft:swiftness",
+  "effects": [
+    {
+      "potion": "minecraft:speed",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "minecraft:sugar"
+    },
+    {
+      "from": "minecraft:awkward",
+      "reagent": "mod_lavacow:ptera_wing"
+    },
+    {
+      "from": "minecraft:awkward",
+      "reagent": {
+        "item": "mod_lavacow:ptera_wing",
+        "meta": 1
+      }
+    },
+    {
+      "from": "minecraft:awkward",
+      "reagent": {
+        "item": "mod_lavacow:ptera_wing",
+        "meta": 2
+      }
+    },
+    {
+      "from": "minecraft:awkward",
+      "reagent": {
+        "item": "mod_lavacow:ptera_wing",
+        "meta": 3
+      }
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

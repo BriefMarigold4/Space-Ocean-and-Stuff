@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "cyclicmagic",
+  "modName": "Cyclic",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "xat:fairy",
+  "effects": [
+    {
+      "potion": "xat:fairy",
+      "level": 1,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "xat:glowing",
+      "reagent": "minecraft:ghast_tear"
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

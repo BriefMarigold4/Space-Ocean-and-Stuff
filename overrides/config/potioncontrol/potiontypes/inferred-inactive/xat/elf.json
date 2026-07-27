@@ -1,0 +1,40 @@
+{
+  "id": "xat:elf",
+  "effects": [
+    {
+      "potion": "xat:elf",
+      "level": 1,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "xat:glittering",
+      "reagent": "minecraft:leaves"
+    },
+    {
+      "from": "xat:glittering",
+      "reagent": {
+        "item": "minecraft:leaves",
+        "meta": 1
+      }
+    },
+    {
+      "from": "xat:glittering",
+      "reagent": {
+        "item": "minecraft:leaves",
+        "meta": 2
+      }
+    },
+    {
+      "from": "xat:glittering",
+      "reagent": {
+        "item": "minecraft:leaves",
+        "meta": 3
+      }
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

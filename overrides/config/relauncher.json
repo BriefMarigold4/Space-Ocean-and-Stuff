@@ -1,0 +1,13 @@
+{
+  "selectedVersion": "0.6.6-alpha",
+  "latestVersion": "0.6.6-alpha",
+  "targetJavaVersion": 26,
+  "targetVendor": "Azul Zulu",
+  "javaPath": "/home/briefmarigold4/.local/share/PrismLauncher/java/azul_zulu_jre26.0.1/bin/java",
+  "args": "-XX:+UseCompactObjectHeaders ",
+  "autoSetup": true,
+  "enableRelauncher": true,
+  "FetchUpdates": true,
+  "clearCleanroomFolder": false,
+  "clearJavaProvisionFolder": false
+}

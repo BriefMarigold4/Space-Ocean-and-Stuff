@@ -1,0 +1,15 @@
+{
+  "id": "potioncore:broken_armor",
+  "isGood": false,
+  "milkRemovable": true,
+  "liquidColor": "#A17F7A",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.armor",
+      "modifierName": "effect.broken_armor",
+      "amount": -0.25,
+      "operation": 2,
+      "uuid": "0c28991c-6d9f-43ad-bb4c-3eb886349406"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "ancientbeasts",
+  "modName": "Beast Slayer",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

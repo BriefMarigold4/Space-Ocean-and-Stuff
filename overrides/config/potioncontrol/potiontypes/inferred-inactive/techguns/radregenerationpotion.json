@@ -1,0 +1,13 @@
+{
+  "id": "techguns:radregenerationpotion",
+  "effects": [
+    {
+      "potion": "techguns:radregeneration",
+      "level": 10,
+      "duration_min": 0.33333334,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 50
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cofhcore:swiftness2+",
+  "effects": [
+    {
+      "potion": "minecraft:speed",
+      "level": 2,
+      "duration_min": 2.6666667,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 400
+}

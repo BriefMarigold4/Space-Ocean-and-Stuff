@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:long_corrosive",
+  "effects": [
+    {
+      "potion": "mod_lavacow:corroded",
+      "level": 1,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "mod_lavacow:corrosive",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

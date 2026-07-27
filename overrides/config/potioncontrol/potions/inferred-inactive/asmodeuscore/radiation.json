@@ -1,0 +1,9 @@
+{
+  "id": "asmodeuscore:radiation",
+  "isGood": false,
+  "isRepeating": true,
+  "repeatingPeriod": 20,
+  "periodAmpModifier": 1,
+  "milkRemovable": false,
+  "liquidColor": "#FFBB4D1E"
+}

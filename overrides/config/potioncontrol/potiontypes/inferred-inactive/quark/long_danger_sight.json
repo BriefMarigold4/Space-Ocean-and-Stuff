@@ -1,0 +1,19 @@
+{
+  "id": "quark:long_danger_sight",
+  "effects": [
+    {
+      "potion": "quark:danger_sight",
+      "level": 1,
+      "duration_min": 8.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "quark:danger_sight",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 1200
+}

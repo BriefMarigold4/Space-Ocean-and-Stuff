@@ -1,0 +1,22 @@
+{
+  "loadDefault": true,
+  "entityID": "abyssaldepths:raccoon_butterflyfish",
+  "langKeyName": "abyssaldepths.raccoon_butterflyfish",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    }
+  ]
+}

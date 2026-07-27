@@ -1,0 +1,15 @@
+{
+  "id": "mod_lavacow:fragile_king",
+  "isGood": false,
+  "milkRemovable": true,
+  "liquidColor": "#FF191219",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.attackDamage",
+      "modifierName": "mob_effect.mod_lavacow:fragile_king",
+      "amount": -0.1,
+      "operation": 2,
+      "uuid": "2ed903a6-66a0-4c50-8a9f-e5c125a84a98"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "scalingfeast:metabolism_strong",
+  "effects": [
+    {
+      "potion": "scalingfeast:metabolism",
+      "level": 2,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

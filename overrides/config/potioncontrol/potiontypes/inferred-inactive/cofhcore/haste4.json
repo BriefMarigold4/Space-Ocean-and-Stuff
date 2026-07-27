@@ -1,0 +1,13 @@
+{
+  "id": "cofhcore:haste4",
+  "effects": [
+    {
+      "potion": "minecraft:haste",
+      "level": 4,
+      "duration_min": 0.6,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 90
+}

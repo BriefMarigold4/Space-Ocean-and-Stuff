@@ -1,0 +1,22 @@
+{
+  "id": "ancientbeasts:undead",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#F1925",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.movementSpeed",
+      "modifierName": "potion.undead",
+      "amount": -0.3,
+      "operation": 2,
+      "uuid": "7107de5e-7ce8-4030-940e-514c1f160890"
+    },
+    {
+      "attribute": "generic.attackDamage",
+      "modifierName": "potion.undead",
+      "amount": 3.0,
+      "operation": 0,
+      "uuid": "648d7064-6a60-4f59-8abe-c2c23a6dd7a9"
+    }
+  ]
+}

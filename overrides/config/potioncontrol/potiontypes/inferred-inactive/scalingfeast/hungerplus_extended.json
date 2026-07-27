@@ -1,0 +1,13 @@
+{
+  "id": "scalingfeast:hungerplus_extended",
+  "effects": [
+    {
+      "potion": "scalingfeast:hungerplus",
+      "level": 4,
+      "duration_min": 6.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 900
+}

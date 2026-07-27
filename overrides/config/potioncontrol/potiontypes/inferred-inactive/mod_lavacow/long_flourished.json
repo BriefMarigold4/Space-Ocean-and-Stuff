@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:long_flourished",
+  "effects": [
+    {
+      "potion": "mod_lavacow:flourished",
+      "level": 1,
+      "duration_min": 8.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "mod_lavacow:flourished",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 1200
+}

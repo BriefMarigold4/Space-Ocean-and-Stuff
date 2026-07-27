@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "abyssaldepths",
+  "modName": "Abyssal Depths",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

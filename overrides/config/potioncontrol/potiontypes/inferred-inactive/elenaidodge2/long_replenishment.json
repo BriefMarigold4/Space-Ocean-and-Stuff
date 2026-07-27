@@ -1,0 +1,23 @@
+{
+  "id": "elenaidodge2:long_replenishment",
+  "effects": [
+    {
+      "potion": "elenaidodge2:replenishment",
+      "level": 1,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:long_regeneration",
+      "reagent": "elenaidodge2:golden_feather"
+    },
+    {
+      "from": "elenaidodge2:replenishment",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

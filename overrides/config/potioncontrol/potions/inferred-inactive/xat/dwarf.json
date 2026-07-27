@@ -1,0 +1,15 @@
+{
+  "id": "xat:dwarf",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#A5492A",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.dwarf",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "917b555b-944a-4e44-afb6-ca638c6d91e5"
+    }
+  ]
+}

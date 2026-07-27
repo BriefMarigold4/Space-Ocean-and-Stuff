@@ -1,0 +1,15 @@
+{
+  "id": "xat:dragon_fire",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#FF0000",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.dragon_fire",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "3b75821e-6ec6-4dfe-9612-b7a988a7b30b"
+    }
+  ]
+}

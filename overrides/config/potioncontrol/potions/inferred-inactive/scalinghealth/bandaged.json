@@ -1,0 +1,18 @@
+{
+  "id": "scalinghealth:bandaged",
+  "isGood": true,
+  "isRepeating": true,
+  "repeatingPeriod": 20,
+  "periodAmpModifier": 0,
+  "milkRemovable": false,
+  "liquidColor": "#F7DCAD",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.movementSpeed",
+      "modifierName": "effect.scalinghealth.bandaged",
+      "amount": -0.25,
+      "operation": 2,
+      "uuid": "732486d8-f730-41a2-868f-eb988738986f"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:strong_thorn",
+  "effects": [
+    {
+      "potion": "mod_lavacow:thorned",
+      "level": 2,
+      "duration_min": 0.75,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "mod_lavacow:thorn",
+      "reagent": "minecraft:glowstone_dust"
+    }
+  ],
+  "tipped_arrow_duration": 112
+}

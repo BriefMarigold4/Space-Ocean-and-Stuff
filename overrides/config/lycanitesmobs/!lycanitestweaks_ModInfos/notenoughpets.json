@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "notenoughpets",
+  "modName": "Not Enough Pets",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

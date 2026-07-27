@@ -1,0 +1,13 @@
+{
+  "id": "scalingfeast:deficiency_strong",
+  "effects": [
+    {
+      "potion": "scalingfeast:deficiency",
+      "level": 8,
+      "duration_min": 8.3333335E-4,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 1
+}

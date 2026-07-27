@@ -1,0 +1,15 @@
+{
+  "id": "potioncore:diamond_skin",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#2BD8F0",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.armorToughness",
+      "modifierName": "effect.diamond_skin",
+      "amount": 4.0,
+      "operation": 0,
+      "uuid": "2ea81026-04ac-4258-885f-b0e6a2cdc3b8"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cofhcore:regeneration3+",
+  "effects": [
+    {
+      "potion": "minecraft:regeneration",
+      "level": 3,
+      "duration_min": 0.375,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 56
+}

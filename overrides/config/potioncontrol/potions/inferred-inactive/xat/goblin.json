@@ -1,0 +1,15 @@
+{
+  "id": "xat:goblin",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#648664",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.goblin",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "d917999a-0399-4c39-bfc5-79784dfff6ed"
+    }
+  ]
+}

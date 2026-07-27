@@ -1,0 +1,9 @@
+{
+  "id": "techguns:radregeneration",
+  "isGood": true,
+  "isRepeating": true,
+  "repeatingPeriod": 20,
+  "periodAmpModifier": 0,
+  "milkRemovable": true,
+  "liquidColor": "#FFA2000"
+}

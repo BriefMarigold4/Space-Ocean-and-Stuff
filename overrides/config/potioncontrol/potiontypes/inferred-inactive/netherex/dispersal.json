@@ -1,0 +1,19 @@
+{
+  "id": "netherex:dispersal",
+  "effects": [
+    {
+      "potion": "netherex:infested",
+      "level": 1,
+      "duration_min": 0.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "netherex:spore"
+    }
+  ],
+  "tipped_arrow_duration": 75
+}

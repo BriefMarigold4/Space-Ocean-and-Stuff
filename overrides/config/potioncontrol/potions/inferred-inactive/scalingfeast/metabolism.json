@@ -1,0 +1,9 @@
+{
+  "id": "scalingfeast:metabolism",
+  "isGood": true,
+  "isRepeating": true,
+  "repeatingPeriod": 50,
+  "periodAmpModifier": 1,
+  "milkRemovable": true,
+  "liquidColor": "#F0B78C"
+}

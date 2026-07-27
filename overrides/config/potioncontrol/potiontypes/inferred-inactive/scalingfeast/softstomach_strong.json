@@ -1,0 +1,13 @@
+{
+  "id": "scalingfeast:softstomach_strong",
+  "effects": [
+    {
+      "potion": "scalingfeast:softstomach",
+      "level": 2,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

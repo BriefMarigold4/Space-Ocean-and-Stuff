@@ -1,0 +1,15 @@
+{
+  "id": "xat:fairy",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#BEF4E7",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.fairy",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "e5869fac-0949-41f2-889b-4e6b8ca6d2e7"
+    }
+  ]
+}

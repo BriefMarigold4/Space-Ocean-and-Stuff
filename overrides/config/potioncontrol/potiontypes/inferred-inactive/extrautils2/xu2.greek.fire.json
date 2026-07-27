@@ -1,0 +1,13 @@
+{
+  "id": "extrautils2:xu2.greek.fire",
+  "effects": [
+    {
+      "potion": "extrautils2:effect.xu2.greek.fire",
+      "level": 1,
+      "duration_min": 2.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 300
+}

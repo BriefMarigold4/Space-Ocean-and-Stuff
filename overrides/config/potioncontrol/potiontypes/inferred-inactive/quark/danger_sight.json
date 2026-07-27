@@ -1,0 +1,19 @@
+{
+  "id": "quark:danger_sight",
+  "effects": [
+    {
+      "potion": "quark:danger_sight",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "quark:glowshroom"
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

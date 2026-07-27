@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "mca",
+  "modName": "Minecraft Comes Alive",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

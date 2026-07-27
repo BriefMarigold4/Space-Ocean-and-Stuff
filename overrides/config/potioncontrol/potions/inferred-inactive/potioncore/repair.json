@@ -1,0 +1,6 @@
+{
+  "id": "potioncore:repair",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#777777"
+}

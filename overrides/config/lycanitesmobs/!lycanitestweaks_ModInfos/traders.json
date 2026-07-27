@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "traders",
+  "modName": "Traders Backport",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

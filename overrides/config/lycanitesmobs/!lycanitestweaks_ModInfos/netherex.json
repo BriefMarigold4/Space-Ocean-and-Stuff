@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "netherex",
+  "modName": "NetherEx",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

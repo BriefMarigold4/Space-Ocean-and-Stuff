@@ -1,0 +1,23 @@
+{
+  "id": "elenaidodge2:long_feathers",
+  "effects": [
+    {
+      "potion": "elenaidodge2:feathers",
+      "level": 1,
+      "duration_min": 8.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "elenaidodge2:feathers",
+      "reagent": "minecraft:redstone"
+    },
+    {
+      "from": "minecraft:mundane",
+      "reagent": "elenaidodge2:golden_feather"
+    }
+  ],
+  "tipped_arrow_duration": 1200
+}

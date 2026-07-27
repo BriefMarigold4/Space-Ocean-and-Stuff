@@ -1,0 +1,23 @@
+{
+  "id": "elenaidodge2:long_endurance",
+  "effects": [
+    {
+      "potion": "elenaidodge2:endurance",
+      "level": 1,
+      "duration_min": 8.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "elenaidodge2:endurance",
+      "reagent": "minecraft:redstone"
+    },
+    {
+      "from": "minecraft:mundane",
+      "reagent": "elenaidodge2:iron_feather"
+    }
+  ],
+  "tipped_arrow_duration": 1200
+}

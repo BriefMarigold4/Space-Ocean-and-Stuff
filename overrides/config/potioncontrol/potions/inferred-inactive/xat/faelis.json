@@ -1,0 +1,15 @@
+{
+  "id": "xat:faelis",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#FCDB74",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.faelis",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "cdccefa8-6a67-4394-b70d-c737953887a2"
+    }
+  ]
+}

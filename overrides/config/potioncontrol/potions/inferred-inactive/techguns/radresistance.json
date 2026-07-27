@@ -1,0 +1,15 @@
+{
+  "id": "techguns:radresistance",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#FF99AC2D",
+  "attributeModifiers": [
+    {
+      "attribute": "techguns.radiationResistance",
+      "modifierName": "techguns.radresistance",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "515ad21c-3fb2-4e36-bbce-88c2ed738de2"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:strong_infestation",
+  "effects": [
+    {
+      "potion": "mod_lavacow:infested",
+      "level": 3,
+      "duration_min": 0.75,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "mod_lavacow:infestation",
+      "reagent": "minecraft:glowstone_dust"
+    }
+  ],
+  "tipped_arrow_duration": 112
+}

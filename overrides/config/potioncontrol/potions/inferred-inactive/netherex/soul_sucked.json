@@ -1,0 +1,15 @@
+{
+  "id": "netherex:soul_sucked",
+  "isGood": false,
+  "milkRemovable": true,
+  "liquidColor": "#FFBC5DC8",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.movementSpeed",
+      "modifierName": "mob_effect.netherex:soul_sucked",
+      "amount": -0.3,
+      "operation": 2,
+      "uuid": "6d9eebb1-f8cd-44c0-86aa-8d36b03b3625"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:long_ravens_grace",
+  "effects": [
+    {
+      "potion": "mod_lavacow:ravens_grace",
+      "level": 1,
+      "duration_min": 4.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "mod_lavacow:ravens_grace",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 600
+}

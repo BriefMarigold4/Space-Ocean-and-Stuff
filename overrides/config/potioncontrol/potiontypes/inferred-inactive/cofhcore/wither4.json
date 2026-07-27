@@ -1,0 +1,13 @@
+{
+  "id": "cofhcore:wither4",
+  "effects": [
+    {
+      "potion": "minecraft:wither",
+      "level": 4,
+      "duration_min": 0.15,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "tipped_arrow_duration": 22
+}

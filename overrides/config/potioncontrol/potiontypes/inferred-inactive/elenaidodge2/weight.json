@@ -1,0 +1,19 @@
+{
+  "id": "elenaidodge2:weight",
+  "effects": [
+    {
+      "potion": "elenaidodge2:weight",
+      "level": 1,
+      "duration_min": 1.5,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "elenaidodge2:endurance",
+      "reagent": "minecraft:fermented_spider_eye"
+    }
+  ],
+  "tipped_arrow_duration": 225
+}

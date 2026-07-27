@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:foulodor",
+  "effects": [
+    {
+      "potion": "mod_lavacow:soiled",
+      "level": 1,
+      "duration_min": 0.75,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "mod_lavacow:foul_bristle"
+    }
+  ],
+  "tipped_arrow_duration": 112
+}

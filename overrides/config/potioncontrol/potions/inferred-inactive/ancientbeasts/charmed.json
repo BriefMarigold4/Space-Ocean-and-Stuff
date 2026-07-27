@@ -1,0 +1,15 @@
+{
+  "id": "ancientbeasts:charmed",
+  "isGood": false,
+  "milkRemovable": true,
+  "liquidColor": "#FF00F7",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.movementSpeed",
+      "modifierName": "potion.charmed",
+      "amount": -0.01,
+      "operation": 2,
+      "uuid": "7107de5e-7ce8-4030-940e-514c1f160890"
+    }
+  ]
+}

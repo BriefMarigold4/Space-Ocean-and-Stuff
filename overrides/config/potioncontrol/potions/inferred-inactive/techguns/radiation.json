@@ -1,0 +1,9 @@
+{
+  "id": "techguns:radiation",
+  "isGood": false,
+  "isRepeating": true,
+  "repeatingPeriod": 20,
+  "periodAmpModifier": 0,
+  "milkRemovable": false,
+  "liquidColor": "#CFF8FF00"
+}

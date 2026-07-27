@@ -1,0 +1,19 @@
+{
+  "id": "mod_lavacow:flourished",
+  "effects": [
+    {
+      "potion": "mod_lavacow:flourished",
+      "level": 1,
+      "duration_min": 3.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "mod_lavacow:ancient_amber"
+    }
+  ],
+  "tipped_arrow_duration": 450
+}

@@ -1,0 +1,15 @@
+{
+  "id": "xat:human",
+  "isGood": true,
+  "milkRemovable": false,
+  "liquidColor": "#A97D64",
+  "attributeModifiers": [
+    {
+      "attribute": "xat.entityRace",
+      "modifierName": "xat.effect.human",
+      "amount": 1.0,
+      "operation": 0,
+      "uuid": "c82ec7c3-2a9d-4a08-b0dd-7ce086c6771b"
+    }
+  ]
+}

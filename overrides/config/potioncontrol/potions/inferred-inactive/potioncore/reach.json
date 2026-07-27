@@ -1,0 +1,15 @@
+{
+  "id": "potioncore:reach",
+  "isGood": true,
+  "milkRemovable": true,
+  "liquidColor": "#C83264",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.reachDistance",
+      "modifierName": "effect.reach",
+      "amount": 0.5,
+      "operation": 0,
+      "uuid": "3944821f-9c5b-41a3-8b4c-146447f591d3"
+    }
+  ]
+}

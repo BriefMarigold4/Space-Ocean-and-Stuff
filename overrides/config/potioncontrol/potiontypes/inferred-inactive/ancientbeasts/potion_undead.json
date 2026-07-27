@@ -1,0 +1,23 @@
+{
+  "id": "ancientbeasts:potion_undead",
+  "effects": [
+    {
+      "potion": "ancientbeasts:undead",
+      "level": 1,
+      "duration_min": 1.0,
+      "is_beacon_style": false,
+      "shows_particles": true
+    }
+  ],
+  "brews_from": [
+    {
+      "from": "minecraft:awkward",
+      "reagent": "ancientbeasts:dark_goop"
+    },
+    {
+      "from": "ancientbeasts:potion_undead",
+      "reagent": "minecraft:redstone"
+    }
+  ],
+  "tipped_arrow_duration": 150
+}

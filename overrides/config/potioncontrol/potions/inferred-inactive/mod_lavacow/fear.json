@@ -1,0 +1,25 @@
+{
+  "id": "mod_lavacow:fear",
+  "isGood": false,
+  "isRepeating": true,
+  "repeatingPeriod": 10,
+  "periodAmpModifier": 0,
+  "milkRemovable": true,
+  "liquidColor": "#FFCD5A1E",
+  "attributeModifiers": [
+    {
+      "attribute": "generic.movementSpeed",
+      "modifierName": "mob_effect.mod_lavacow:fear",
+      "amount": -0.2,
+      "operation": 2,
+      "uuid": "91aeaa56-376b-4498-935b-2f7f68070635"
+    },
+    {
+      "attribute": "generic.attackDamage",
+      "modifierName": "mob_effect.mod_lavacow:fear",
+      "amount": -0.2,
+      "operation": 2,
+      "uuid": "22653b89-116e-49dc-9b6b-9971489b5be5"
+    }
+  ]
+}
